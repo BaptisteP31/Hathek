@@ -2,7 +2,7 @@
 - 👀 I’m interested in Motorcycles, Computer sciences and Maths
 - 🌱 I’m currently learning Maths
 - 📫 Reach me by E-mail at baptiste@paqueriaud.fr
-- 🌐 http://baptiste.paqueriaud.fr
+- 🌐 https://baptiste.paqueriaud.fr
 
 <!---
 Hathek/Hathek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
